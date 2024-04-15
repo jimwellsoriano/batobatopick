@@ -1,0 +1,16 @@
+.rock,
+.paper,
+.scissor{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(51, 51, 51);
+    border: none;
+    border-radius: 50px;
+}
+
+.rock-icon,
+.paper-icon,
+.scissor-icon{
+    height: 50px;
+    width: 50px;
+}
